@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "ChickenSoftware.CodeProject.BirdsOfFeather", "ChickenSoftware.CodeProject.BirdsOfFeather\ChickenSoftware.CodeProject.BirdsOfFeather.fsproj", "{C875DB5D-8AA4-4F7B-9DDE-6D4BEE342EDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C875DB5D-8AA4-4F7B-9DDE-6D4BEE342EDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C875DB5D-8AA4-4F7B-9DDE-6D4BEE342EDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C875DB5D-8AA4-4F7B-9DDE-6D4BEE342EDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C875DB5D-8AA4-4F7B-9DDE-6D4BEE342EDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15469B0C-7BEB-4BEC-A0DC-4BC4D86D0E31}
+	EndGlobalSection
+EndGlobal
